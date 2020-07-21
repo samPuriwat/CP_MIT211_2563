@@ -7,7 +7,9 @@ public class HelloWorld {
         System.out.println("Puriwat Lertkrai");
         System.out.println("MT");
         System.out.println("RUTS");
-
+System.out.println("RUTS");
+        System.out.println("RUTS");
+        System.out.println("RUTS");
 
     }
 
